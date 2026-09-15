@@ -30,14 +30,14 @@
       PRODUCTS_SYNC_ENABLED to true.
    ===================================================================== */
 
-const ACCOUNTS_ENABLED = false;       // set to true once FIREBASE_CONFIG below is filled in
-const PRODUCTS_SYNC_ENABLED = false;  // set to true for instant product updates (needs Storage too — Section 6)
+const ACCOUNTS_ENABLED = true;       // set to true once FIREBASE_CONFIG below is filled in
+const PRODUCTS_SYNC_ENABLED = true;  // set to true for instant product updates (needs Storage too — Section 6)
 
 const FIREBASE_CONFIG = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "your-project.firebaseapp.com",
-  projectId: "your-project-id",
-  storageBucket: "your-project.appspot.com",
-  messagingSenderId: "000000000000",
-  appId: "1:000000000000:web:xxxxxxxxxxxxxxxxxxxxxx"
+  apiKey: "AIzaSyCh8z_9x3NyoPJiYAPk_I3veQ6RjG44ED4",
+  authDomain: "pink-world-store.firebaseapp.com",
+  projectId: "pink-world-store",
+  storageBucket: "pink-world-store.firebasestorage.app",
+  messagingSenderId: "121284750877",
+  appId: "1:121284750877:web:f0048c30e5da4c0585e0f4"
 };
