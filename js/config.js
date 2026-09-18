@@ -37,17 +37,17 @@ const STORE_CONFIG = {
   branches: [
     {
       name: "Erattayar Branch",
-      address: "ADD FULL ADDRESS HERE, Erattayar, Idukki District, Kerala - 685508",
+      address: "Erattayar, Idukki District, Kerala - 685514",
       phone: "+91 90000 00001",
-      hours: "Mon – Sat: 9:30 AM – 8:30 PM | Sun: 10:00 AM – 6:00 PM",
+      hours: "Mon – Sat: 9:00 AM – 8:30 PM | Sun: 10:00 AM – 6:00 PM",
       mapEmbed: "https://www.google.com/maps?q=Erattayar,+Idukki,+Kerala&output=embed",
       mapLink: "https://maps.google.com/?q=Erattayar,+Idukki,+Kerala"
     },
     {
       name: "Nedumkandam Branch",
-      address: "ADD FULL ADDRESS HERE, Nedumkandam, Idukki District, Kerala - 685553",
-      phone: "+91 90000 00002",
-      hours: "Mon – Sat: 9:30 AM – 8:30 PM | Sun: 10:00 AM – 6:00 PM",
+      address: "Nedumkandam, Idukki District, Kerala - 685553",
+      phone: "+91 62357 75643",
+      hours: "Mon – Sat: 9:00 AM – 8:30 PM | Sun: 10:00 AM – 6:00 PM",
       mapEmbed: "https://www.google.com/maps?q=Nedumkandam,+Idukki,+Kerala&output=embed",
       mapLink: "https://maps.google.com/?q=Nedumkandam,+Idukki,+Kerala"
     }
